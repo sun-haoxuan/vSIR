@@ -1,5 +1,5 @@
 # Varying Coefficient SIR Model
-This repository includes the R code for Varying Coefficient SIR Model(vSIR) model in *Sun et al.(2020)*.
+This repository includes the R code for varying coefficient SIR model(vSIR) in *Sun et al.(2020)*.
 
 * basic_functions.R
 
