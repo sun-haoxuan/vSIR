@@ -15,4 +15,4 @@ The code is for reproducing the prediction result. The prediction for the peak t
 
 # Reference
 Sun, H., Qiu, Y., Yan, H., Huang, Y., Zhu, Y., Gu, J. and Chen, S. X. "Tracking Reproductivity of COVID-19 Epidemic in China with
-Varying Coefficient SIR Model" Journal of Data Science(2020).
+Varying Coefficient SIR Model" Journal of Data Science(2020), to appear.
