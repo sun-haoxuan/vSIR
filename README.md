@@ -1,6 +1,5 @@
-# COVID-19-vSIR-model
-This repository includes the R code for vSIR model in our paper "Tracking Reproductivity of COVID-19 Epidemic in China with
-Varying Coefficient SIR Model".
+# Varying Coefficient SIR Model
+This repository includes the R code for Varying Coefficient SIR Model(vSIR) model in *Sun et al.(2020)*.
 
 * basic_functions.R
 
@@ -13,3 +12,7 @@ The code is for reproducing the estimation of $(\beta(t)$, $\gamma(t)$ and $R^D(
 * code_for_prediction.R
 
 The code is for reproducing the prediction result. The prediction for the peak time, ending time and final infected number are based on reciprocal fitting model and simulation function built with the ODE. The prediction intervals are constructed with the Bootstrap method. See *Sun et al.(2020)* for method and theory details.
+
+# Reference
+Sun, H., Qiu, Y., Yan, H., Huang, Y., Zhu, Y., Gu, J. and Chen, S. X. "Tracking Reproductivity of COVID-19 Epidemic in China with
+Varying Coefficient SIR Model" Journal of Data Science(2020).
