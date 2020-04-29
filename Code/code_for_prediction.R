@@ -126,7 +126,7 @@ vSIR_Predict = function(origin.df, est.df, w = 5, D.R = 17.5,  t.length = 1000, 
       
       boot.peak.day[b] <- which.max(I.process)
       boot.total.num[b] <- sim$R[t.length]
-      boot.peak.num[b] = max(I.process)
+      # boot.peak.num[b] = max(I.process)
       boot.predict[b,] = I.process  
       
     }  
