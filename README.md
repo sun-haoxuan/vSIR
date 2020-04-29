@@ -7,7 +7,7 @@ The code provide functions for smoothing, reciprocal fitting and ODE simulation.
 
 * code_for_vSIR_model.R
 
-The code is for reproducing the estimation of $(\beta(t)$, $\gamma(t)$ and $R^D(t))$. The estimates are based on the infected and removed cases each day. See *Sun et al.(2020)* for method and theory details. 
+The code is for reproducing the estimation of $\beta(t)$, $\gamma(t)$ and $R^D(t)$. The estimates are based on the infected and removed cases each day. See *Sun et al.(2020)* for method and theory details. 
 
 * code_for_prediction.R
 
